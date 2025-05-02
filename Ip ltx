@@ -1,9 +1,0 @@
-pip install request 
-
-pkg install python git
-
-pip install -r requirements.txt
-
-ao abrir o arquivo no terminal termux digite!
-
-python main.py
